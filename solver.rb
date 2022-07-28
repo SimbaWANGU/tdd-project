@@ -1,6 +1,5 @@
 class Solver
   def initialize
-    
   end
 
   def factorial(int)
@@ -8,7 +7,7 @@ class Solver
   end
 
   def reverse(str)
-
+    str.reverse
   end
 
   def fizzbuzz(int)
