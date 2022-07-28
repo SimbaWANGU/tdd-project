@@ -30,7 +30,7 @@ describe Solver do
       expect(sv.fizzbuzz(15)).to eq('fizzbuzz')
       expect(sv.fizzbuzz(30)).to eq('fizzbuzz')
       expect(sv.fizzbuzz(7)).to eq('7')
-      expect(sv.fizzbuzz(10)).to eq('10')
+      expect(sv.fizzbuzz(11)).to eq('11')
     end
   end
 end
